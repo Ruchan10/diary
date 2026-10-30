@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Status-bar icon: white silhouette, face cut out. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="100" android:viewportHeight="100">
+    <group android:translateY="2">
+        <path android:fillColor="#FFFFFFFF" android:fillType="evenOdd" android:pathData="M50,6 C50,6 20,38 20,60 A30,30 0 0,0 80,60 C80,38 50,6 50,6 Z M36.9,61 A3.6,4.8 0 1,0 44.1,61 A3.6,4.8 0 1,0 36.9,61 Z M55.9,61 A3.6,4.8 0 1,0 63.1,61 A3.6,4.8 0 1,0 55.9,61 Z M41.5,69.5 Q50,81 58.5,69.5 Q50,74 41.5,69.5 Z"/>
+    </group>
+</vector>

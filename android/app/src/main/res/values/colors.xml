@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#FFFFF6EA</color>
+    <!-- Widget defaults (Ink accent). The app replaces them with your theme once it has run. -->
+    <color name="widget_bg">#FFF6F2FA</color>
+    <color name="widget_fg">#FF1B1B21</color>
+    <color name="widget_muted">#FF46464F</color>
+    <color name="widget_accent">#FF4C51C0</color>
+    <color name="widget_on_accent">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Looked up by name at runtime (notifications, launcher shortcuts): don't shrink them away. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_stat_inkling,@drawable/ic_shortcut_write,@drawable/ic_shortcut_search"/>

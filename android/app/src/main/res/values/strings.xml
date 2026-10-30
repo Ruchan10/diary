@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inkling</string>
+    <string name="widget_label">Inkling</string>
+    <string name="widget_description">Your week of writing, your streak, and one tap to jot down today.</string>
+    <string name="widget_prompt">What happened today?</string>
+    <string name="widget_keep_streak">Keep your %1$d-day streak going. What happened today?</string>
+    <string name="widget_written">Today’s page is written ✓</string>
+    <string name="widget_start_streak">Start a streak today</string>
+    <string name="widget_streak">🔥 %1$d-day streak</string>
+    <string name="widget_write">Write</string>
+    <string name="widget_add">Add</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The explicit transparent fill matters: without it, tinting a stroke-only
+     GradientDrawable paints the fill too and the ring turns into a disc. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <solid android:color="@android:color/transparent"/>
+    <stroke android:width="2dp" android:color="#FFFFFFFF"/>
+</shape>
